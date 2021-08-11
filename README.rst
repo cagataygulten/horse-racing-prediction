@@ -36,6 +36,9 @@ It is not permitted to publish whole dataset, therefore, a part of the dataset i
 .. image:: https://github.com/cagataygulten/horse-racing-prediction/blob/master/pics/User_Manual_1.jpg?raw=true
    :align: center
 
+|
+
+Model should be downloaded seperately.
 
 ===============
 How to Use
