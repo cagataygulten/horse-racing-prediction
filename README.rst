@@ -28,6 +28,7 @@ Source codes and a technical report including data analysis is available in repo
 Note
 ----
 
+Models file size is a little big. In case downloading whole project file as a zip, models.pkl should be downloaded separately.
 
 It is not permitted to publish whole dataset, therefore, a part of the dataset is created, including all horse statistics of races between only 12/04/2021 and 18/04/2021 for demonstration. Date and city can be obtained from The Turkish Jockey Club website.
 (https://www.tjk.org/TR/YarisSever/Info/Page/GunlukYarisProgrami)
@@ -38,7 +39,6 @@ It is not permitted to publish whole dataset, therefore, a part of the dataset i
 
 |
 
-Model should be downloaded seperately.
 
 ===============
 How to Use
